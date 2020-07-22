@@ -1,6 +1,14 @@
-# covidtracker
+# Covid-19 Tracker
 
-A new Flutter application.
+Made with Flutter
+
+## Screenshots
+<img src="screenshots/home.png" height="450" width="auto">
+<img src="screenshots/global.png" height="450" width="auto">
+<img src="screenshots/themes.png" height="450" width="auto"> 
+<img src="screenshots/home_dark.png" height="450" width="auto">
+<img src="screenshots/states.png" height="450" width="auto">
+
 
 ## Getting Started
 
