@@ -3,12 +3,10 @@
 Made with Flutter
 
 ## Screenshots
-<img src="screenshots/home.png" height="450" width="auto">
-<img src="screenshots/global.png" height="450" width="auto">
-<img src="screenshots/themes.png" height="450" width="auto"> 
-<img src="screenshots/home_dark.png" height="450" width="auto">
-<img src="screenshots/states.png" height="450" width="auto">
+<img src="screenshots/home.png" height="450" width="auto"><img src="screenshots/global.png" height="450" width="auto"><img src="screenshots/themes.png" height="450" width="auto"> <img src="screenshots/home_dark.png" height="450" width="auto"><img src="screenshots/states.png" height="450" width="auto">
 
+## Download Apk
+https://github.com/aadesh-hemwani/Covid19-Tracker/blob/master/apk/Covid%20Tracker%203.0.1.apk?raw=true
 
 ## Getting Started
 
